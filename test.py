@@ -1,1 +1,1 @@
-print("print python code v8")
+prin("print python code v8")
